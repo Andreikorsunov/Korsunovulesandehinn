@@ -38,7 +38,8 @@ namespace Korsunovulesandehinn
             Console.WriteLine("");
 
             Console.WriteLine("Ülesanne 3.");
-            Console.ReadKey();//Antud: teave iga linna elaniku kohta sisaldab järgmisi elemente:
+            Console.ReadKey();
+                                             //Antud: teave iga linna elaniku kohta sisaldab järgmisi elemente:
                                              //a) perekonnanimi, nimi, isanimi;
                                              //b) kodune aadress(tänav, maja);
                                              //c) sünniaeg.
